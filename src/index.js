@@ -1,5 +1,4 @@
 module.exports = function toReadable(number) {
-    module.exports = function toReadable(number) {
         let first;
         let second;
         let third;
@@ -287,6 +286,4 @@ module.exports = function toReadable(number) {
             };
             return (first + second);
         }
-    }
-
 }
